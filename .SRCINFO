@@ -8,6 +8,7 @@ pkgbase = mingw-w64-libidn
 	makedepends = gettext
 	makedepends = autoconf-archive
 	makedepends = mingw-w64-configure
+	makedepends = gtk-doc
 	depends = mingw-w64-crt
 	depends = mingw-w64-gettext
 	options = staticlibs
